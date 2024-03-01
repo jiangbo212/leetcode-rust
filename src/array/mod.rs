@@ -5,3 +5,6 @@ mod array_majority_element;
 mod array_max_profit;
 mod array_length_or_last_word;
 mod array_roman_to_int;
+mod array_longest_common_prefix;
+mod array_str_str;
+mod array_remove_duplicates2;
