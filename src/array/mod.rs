@@ -8,3 +8,4 @@ mod array_roman_to_int;
 mod array_longest_common_prefix;
 mod array_str_str;
 mod array_remove_duplicates2;
+mod array_rotate;
