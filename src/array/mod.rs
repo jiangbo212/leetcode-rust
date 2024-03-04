@@ -9,3 +9,5 @@ mod array_longest_common_prefix;
 mod array_str_str;
 mod array_remove_duplicates2;
 mod array_rotate;
+mod array_max_profit2;
+mod array_can_jump;
